@@ -1,5 +1,7 @@
 **General rule of thumb:** Programs do get better as the date changes from mid-June to mid-July.
 
+# Project Timeline
+
 ## 11 Jun
 **program.py:**
 - Calculating alm values and storing in text files and simply plotting a predownloaded fits file.
@@ -175,9 +177,6 @@
 
 **pwsimp.py:**
 - Trying out Simpson's 1/3 rule for integration.
-
-
-# Project Timeline
 
 ## 03 Jul
 **fluxcalc.py:**
