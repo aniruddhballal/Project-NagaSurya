@@ -315,3 +315,13 @@
 
 **fractionalmagcomtimebtot.py:**
 - Same as above (magcom_time_b_tot.py) as the name suggests, except now it plots in a different directory the fractional change of both the parameters over time, to be able to compare what fraction of change in b_tot caused what fraction of change in the COM's magnitude. Last point to note is that the magnitude of the COM is basically the average of all the alm values for that l.
+
+## 18 Jul
+**animate.py:**
+- New idea where I am converting all those multiple plots' pictures into one video, displaying every plot of that code for 0.05 seconds. Just to get way better overall visuals.
+
+**hmi_synoptic_maps.py:**
+- In an attempt to get the green and orange colours into the original CR Map plots, I downloaded this code from here https://docs.sunpy.org/en/stable/generated/gallery/plotting/hmi_synoptic_maps.html
+
+**hmi_synoptic_maps.py:**
+- It is the same as the above code except here it runs for all CR Maps numbered from 2096 till 2285. However, there seems to be an issue with maps numbered 2141 (including) to 2151 (including), a total of 11 maps are not being plotted.
