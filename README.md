@@ -1,3 +1,5 @@
-this branch of this project has the final codes of:
-1. one code where it displays 4 subplots with the two distinct types of visual representations of the max and the second max alm magnitudes' l and m (product of 11Jun or before - 13Jul)
-2. another code where it displays the analysis and multiple ways of visualisations of the alm values extracted in different formats (from 14Jul - 18Jul)
+13th July consists of codes and plots that represent the final version of the code I had been trying to develop since the beginning. It plots the 4-in-1 plot with visual representations of the two of the highest magnitude ALM's YLM functions.
+
+16th July consists of the final codes relating to the Centre of Mass (COM) concept introduced towards the later stages of the development of the above code. No conclusive findings that are of any surprise. It just seems to correspond to the other ways of representing the solar magnetic flux data. Could look more into it, further down the lane.
+
+18th July is simply an animated compilation of all the plots I had accumulated so far with all the versions of codes and their respective yet random side quests.
