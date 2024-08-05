@@ -10,6 +10,8 @@ consists of the final codes relating to the Centre of Mass (COM) concept introdu
 ## 18th July
 is simply an animated compilation of all the plots I had accumulated so far with all the versions of codes and their respective yet random side quests.
 
+## The rest of the files and folders are supportive to the main branch.
+
 ---
 # Refer to the main branch for detailed explanations and step by step progress checks to reach the levels of these codes.
 ---
